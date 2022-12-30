@@ -1,0 +1,2 @@
+-- abcde
+DROP TABLE DEMO_127.DEMO.ABCDE;
