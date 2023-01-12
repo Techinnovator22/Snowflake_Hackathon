@@ -1,0 +1,4 @@
+-- test_demo_1
+CREATE   DATABASE test_demo_1  DATA_RETENTION_TIME_IN_DAYS = 5
+MAX_DATA_EXTENSION_TIME_IN_DAYS = 4
+COMMENT = 'test demo';
