@@ -1,2 +1,0 @@
--- sq_dec30_demo1
-CREATE  SEQUENCE DEMO_127.DEMO.sq_dec30_demo1 WITH START WITH = 1 INCREMENT BY = 1 COMMENT = 'sq_dec30_demo';
