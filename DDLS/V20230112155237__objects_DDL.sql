@@ -1,0 +1,2 @@
+-- test_demo_2
+DROP DATABASE TEST_DEMO_2;
