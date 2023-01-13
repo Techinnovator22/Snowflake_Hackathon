@@ -1,0 +1,2 @@
+-- demo_db113
+DROP DATABASE DEMO_DB113;
