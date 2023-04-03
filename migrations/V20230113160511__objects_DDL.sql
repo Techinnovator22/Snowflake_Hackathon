@@ -1,2 +1,0 @@
--- tb12345
-CREATE   TABLE DEMO_127.DEMO.tb12345 (c1 varchar) ;
