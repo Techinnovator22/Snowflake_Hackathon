@@ -1,0 +1,2 @@
+-- dna_1
+CREATE   DATABASE DNA_1  COMMENT = 'TEST';
