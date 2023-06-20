@@ -1,0 +1,2 @@
+-- dna
+CREATE   DATABASE DNA  COMMENT = 'TEST';
